@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Development",
+    "shortDescription": "Crafting bespoke web solutions tailored to your needs",
+    "icon": "/assets/svgs/development.svg"
+  },
+  {
+    "title": "Design",
+    "shortDescription": "Creating visually stunning and intuitive user interfaces",
+    "icon": "/assets/svgs/design.svg"
+  },
+  {
+    "title": "Integrations",
+    "shortDescription": "Seamlessly integrating plugins and custom components",
+    "icon": "/assets/svgs/integrations.svg"
+  },
+  {
+    "title": "Optimization",
+    "shortDescription": "Maximizing performance and user experience through meticulous optimization",
+    "icon": "/assets/svgs/optimization.svg"
+  },
+  {
+    "title": "Deployment",
+    "shortDescription": "Ensuring smooth deployment and continuous integration",
+    "icon": "/assets/svgs/deployment.svg"
+  },
+  {
+    "title": "Consultation",
+    "shortDescription": "Providing ongoing support and expert guidance for sustained success",
+    "icon": "/assets/svgs/consultation.svg"
+  }
+]

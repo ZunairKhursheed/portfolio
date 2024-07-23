@@ -2,16 +2,16 @@
   {
     "name": "github",
     "link": "https://github.com/ZunairKhursheed",
-    "image": "/assets/images/github.svg"
+    "image": "/assets/svgs/github.svg"
   },
   {
     "name": "linkedin",
     "link": "https://www.linkedin.com/in/zunair-khursheed/",
-    "image": "/assets/images/linkedin.svg"
+    "image": "/assets/svgs/linkedin.svg"
   },
   {
     "name": "fiverr",
     "link": "https://www.fiverr.com/zunairkhursheed",
-    "image": "/assets/images/fiverr.svg"
+    "image": "/assets/svgs/fiverr.svg"
   }
 ]

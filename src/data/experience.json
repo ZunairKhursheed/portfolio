@@ -1,0 +1,41 @@
+[
+  {
+    "label": "MERN STACK DEVELOPER",
+    "institute": "Green Group, Lahore",
+    "start": "2022",
+    "end": "Present",
+    "description": [
+      "JWT Token Management: Implemented secure JWT token management, leveraging React-Hook.",
+      "REST API Development: Designed and developed robust RESTful APIs using Node.js, ensuring efficient and scalable server-side logic.",
+      "Client Collaboration: Collaborated closely with clients, utilizing tools like Figma, XD, PS, and Invasion to translate requirements into system designs.",
+      "State Management Expertise: Utilized Middleware, Redux Toolkit, Redux-Saga, Context API, and Redux-Thunk to seamlessly retrieve and store data from the Backend, along with performing RESTFUL services.",
+      "Responsive Styling: Applied CSS Box Model, employed styled components, CSS preprocessor SASS, and effectively used mixins, functions, grid-area concepts, and flexbox for creating fluid-responsive applications.",
+      "Server Configuration (Digital Ocean): Configured servers on Digital Ocean, implementing server-side optimizations and security measures to ensure reliable and performant application hosting.",
+      "Version Control and Testing: Employed Git-based version control systems (Github, Bitbucket, GitLab) for collaborative development."
+    ]
+  },
+  {
+    "label": "JAVASCRIPT DEVELOPER",
+    "institute": "BizSoft Technologies, Lahore",
+    "start": "2020",
+    "end": "2022",
+    "description": [
+      "Client Collaboration: Worked closely with clients to establish detailed specifications and system designs, utilizing tools like Figma, Adobe XD, Photoshop, and InVision for effective UX collaboration.",
+      "Responsive Web Design: Implemented advanced CSS techniques, including the CSS Box Model, styled-components, and CSS preprocessor SASS. Effectively used mixins, functions, grid-area concepts, and flexbox to create fluid and responsive web applications.",
+      "Team Collaboration: Worked closely with cross-functional teams, including designers and senior developers, to ensure project goals were met and delivered on time.",
+      "Version Control: Used GitHub for version control and tracking, facilitating collaborative development and maintaining code quality."
+    ]
+  },
+  {
+    "label": "Web DEVELOPER",
+    "institute": "SUPERIOR INFORMATION SYSTEMS, INC, Lahore",
+    "start": "2018",
+    "end": "2020",
+    "description": [
+      "WordPress Customization: Customized WordPress themes and plugins to meet specific client needs, enhancing website functionality, performance, and user engagement.",
+      "React.js Development: Implemented innovative website solutions as a React.js developer, building reusable components with styled-components for improved cross-platform optimization and site performance.",
+      "Responsive Design: Applied advanced CSS techniques, including the CSS Box Model, flexbox, and grid systems, to create responsive and visually appealing websites.",
+      "Client Collaboration: Worked closely with clients and senior developers to gather requirements and translate them into technical specifications, ensuring timely and accurate project delivery."
+    ]
+  }
+]

@@ -1,14 +1,14 @@
-import type { Config, } from "tailwindcss";
-const { fontFamily } = require("tailwindcss/defaultTheme")
+import type { Config } from "tailwindcss";
+const { fontFamily } = require("tailwindcss/defaultTheme");
 
 const config = {
   darkMode: ["class"],
   content: [
-    './pages/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-    './app/**/*.{ts,tsx}',
-    './src/**/*.{ts,tsx}',
-	],
+    "./pages/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
+    "./app/**/*.{ts,tsx}",
+    "./src/**/*.{ts,tsx}",
+  ],
   prefix: "",
   theme: {
     container: {
@@ -21,6 +21,8 @@ const config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
+        poppins: ["poppins", ...fontFamily.sans],
+        spacegrotesk: ["SpaceGrotesk", ...fontFamily.sans],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -62,6 +64,9 @@ const config = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+      boxShadow: {
+        default: "7px 7px 98px rgba(9,47,104,.15)",
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
@@ -71,30 +76,29 @@ const config = {
           from: { height: "var(--radix-accordion-content-height)" },
           to: { height: "0" },
         },
-        "rotate":{
-            from: {
-              transform: "rotate(-50deg)",
+        rotate: {
+          from: {
+            transform: "rotate(-50deg)",
           },
           to: {
-              transform: "rotate(-30deg)",
-
-          }
-        }
+            transform: "rotate(-30deg)",
+          },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
-        "animation-rotate":"rotate 13s linear 0s infinite alternate"
+        rotate: "rotate 13s linear 0s infinite alternate",
       },
     },
-    backgroundImage:{
-      "banner-bg":"https://zunairkhursheed.vercel.app/img/Profile.jpg"
+    backgroundImage: {
+      "banner-bg": "https://zunairkhursheed.vercel.app/img/Profile.jpg",
     },
     clipPath: {
-      'banner-clip': 'polygon(100% 0, 81% 86%, 0 100%, 0 0)',
+      "banner-clip": "polygon(100% 0, 81% 86%, 0 100%, 0 0)",
     },
   },
   plugins: [require("tailwindcss-animate")],
-} satisfies Config
+} satisfies Config;
 
-export default config
+export default config;
