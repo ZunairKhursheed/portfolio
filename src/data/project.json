@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Mental Wealth",
+    "type": "react.js",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Vite"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/06f89ef6-525a-4ce3-9ef3-7e31d52a81db",
+      "https://gist.github.com/user-attachments/assets/fccf53be-b8f1-4788-9319-474695f6e2b6",
+      "https://gist.github.com/user-attachments/assets/c0a65eca-0078-49a8-a6bd-26599b1f4470"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/06f89ef6-525a-4ce3-9ef3-7e31d52a81db",
+    "description": "Mental Wealth Academy is a cutting-edge blockchain-based library and marketplace that connects authors and readers in a decentralized environment. The platform leverages DAO tokens to empower its community, enabling users to shape the future of digital publishing by sharing, accessing, and controlling a vast repository of content. Technologies Used*: React, Vite.js, TypeScript, Tailwind CSS. I converted the provided Figma design into a fully functional website using React, Vite.js, TypeScript, and Tailwind CSS. My responsibilities included translating the design into a responsive and user-friendly interface, optimizing the website's performance, and ensuring smooth interaction between the frontend components. I also implemented the necessary configurations for deploying the site efficiently. The project successfully launched as a decentralized platform, receiving positive feedback for its innovative approach to digital publishing and seamless user experience."
+  },
+  {
+    "title": "Health Social",
+    "type": "next.js",
+    "skills": [
+      "Next.js",
+      "SCSS",
+      "Fabric Js",
+      "One Signal",
+      "Tinymce Editor",
+      "PSD"
+    ],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/7791c925-6530-4d46-9ce2-279b056579b6",
+      "https://gist.github.com/user-attachments/assets/6c792aeb-5675-434a-8e38-483247dd14b9",
+      "https://gist.github.com/user-attachments/assets/a8a321e7-efb3-425c-aafa-12cf8e988d41"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/7791c925-6530-4d46-9ce2-279b056579b6",
+    "description": "I was heavily involved in the frontend development of Social Health, a specialized social media platform tailored for fitness enthusiasts. This platform offers a dedicated space for users to share their fitness journeys, post updates on their timelines, join groups, and interact with a community that shares their passion for health and fitness. My primary responsibility was to take the PSD design provided by the client and convert it into a dynamic, responsive, and user-friendly website using Next.js and SCSS. In addition to the core development, I implemented several custom features to enhance the platform’s functionality. I developed a custom image cropper using Fabric.js, allowing users to easily edit and upload images. I also created a custom TinyMCE editor to provide a rich text editing experience tailored to the needs of fitness enthusiasts. This involved integrating various plugins and ensuring compatibility with the overall design and user experience. My work ensured that the platform was not only visually appealing but also highly functional and easy to use, contributing to a seamless and engaging experience for all users."
+  },
+  {
+    "title": "Coffee",
+    "type": "react.js",
+    "skills": ["React", "Vite", "TypeScript", "Tailwind CSS", "Shadcn"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/29f2b30e-e5b0-498f-b8ab-789a6d0cf64f",
+      "https://gist.github.com/user-attachments/assets/2bfaf770-e569-4c5b-8838-12f19e11c91b",
+      "https://gist.github.com/user-attachments/assets/649a4210-7975-47fa-b54e-68d637ee37a8"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/649a4210-7975-47fa-b54e-68d637ee37a8",
+    "description": "CoffeeWallet is a dynamic and engaging application designed to streamline the management of coffee-related transactions and experiences. My role involved transforming a detailed Figma design into a fully operational application using React and Vite.js, ensuring that the final product met both aesthetic and functional requirements. I leveraged Tailwind CSS and ShadCN to develop a responsive design that offers a seamless user experience across various devices and screen sizes. The use of Tailwind CSS allowed for efficient styling with utility classes, while ShadCN provided additional design components that were essential for creating a polished and cohesive look. I also utilized TypeScript to enhance code quality and maintainability, ensuring robust and type-safe interactions throughout the application. My responsibilities included implementing interactive features and ensuring that the user interface remained intuitive and user-friendly. I focused on optimizing performance and ensuring that all components functioned smoothly, contributing to a high-quality end product. The result was an application that not only matched the design vision but also delivered a superior experience for users managing their coffee-related activities."
+  },
+  {
+    "title": "Apka Muaalij",
+    "type": "next.js",
+    "skills": [
+      "Next.js",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "Redux toolkit",
+      "AWS S3",
+      "Zoom  Video SDK",
+      "Tailwind CSS",
+      "Shadcn"
+    ],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/16f3e1da-24f7-41a5-a09b-9f2701d0da9f",
+      "https://gist.github.com/user-attachments/assets/06637b73-9b99-4fe3-8d4c-9bffccc1da99"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/16f3e1da-24f7-41a5-a09b-9f2701d0da9f",
+    "description": "I served as the Lead Full Stack MERN Developer for a comprehensive healthcare app designed to connect doctors with patients. The app provides a robust platform where doctors can manage their schedules, and patients can book appointments either online or in-clinic based on the available slots. Additionally, doctors have the capability to write and manage prescriptions after appointments. My responsibilities included converting designs from Figma to a fully functional Next.js application using TailwindCSS to ensure a responsive and visually appealing interface. I also played a key role in guiding junior developers in the creation of reusable UI components, enhancing the overall codebase efficiency and consistency. On the backend, I developed the application using Node.js, integrating various systems such as payment gateways, Zoom SDK for virtual consultations, AWS S3 for file storage, JWT for secure authentication, and WhatsApp API for communication. My role encompassed both frontend and backend development, ensuring seamless integration between all components and delivering a cohesive user experience."
+  },
+  {
+    "title": "Dunkswap",
+    "type": "react.js",
+    "skills": [
+      "React.js",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "Redux toolkit",
+      "Socket.io",
+      "Styled Component",
+      "Bootstrap",
+      "Web3",
+      "IPFS"
+    ],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/cd59f1ea-d902-4145-8923-51e36f2958b7",
+      "https://gist.github.com/user-attachments/assets/bed7426e-08a5-41b1-9afb-70474a55be40"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/bed7426e-08a5-41b1-9afb-70474a55be40",
+    "description": "Dunk Swap is a cutting-edge NFT marketplace designed to facilitate the buying, selling, and trading of digital assets. As a MERN Stack Developer on this project, I played a pivotal role in bringing the concept to life by utilizing a range of advanced technologies and frameworks. I was responsible for converting the Figma designs into a functional and interactive application, ensuring that the final product adhered to the design specifications while providing an exceptional user experience. The tech stack included React.js for building a dynamic and responsive frontend, Node.js and Express.js for creating a robust backend, and MongoDB for managing the application's data. I integrated Web3 and Web3 Sockets to enable blockchain interactions, allowing users to perform transactions and manage their NFTs directly from the platform. Socket.io was used to implement real-time communication features, enhancing user engagement by providing instant updates and notifications. Additionally, I employed Bootstrap for responsive and mobile-first design elements to ensure that the application performed well across different devices. My role encompassed the end-to-end development process, including both frontend and backend implementation, to create a seamless and cohesive application. I ensured that the integration between various components was smooth and efficient, resulting in a fully functional NFT marketplace that met the project's objectives and provided a high-quality experience for users."
+  },
+  {
+    "title": "Whirling Turban",
+    "type": "shopify",
+    "skills": ["Shopify"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/c7db1841-8697-4a50-9455-e374d7785087",
+      "https://gist.github.com/user-attachments/assets/72550779-aacc-401a-b018-8b6f0bb3e583"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/c7db1841-8697-4a50-9455-e374d7785087",
+    "description": "I created the Shopify store for Whirling Turban from scratch, focusing on both aesthetics and functionality. The store was meticulously optimized to boost sales, and I customized it extensively using Liquid to meet the client's specific needs. I ensured a seamless and responsive design, providing an excellent user experience across all devices, including mobile and tablets. The project involved a comprehensive approach to optimization, leading to significant improvements in site performance and user engagement. My attention to detail and dedication to creating a visually appealing and highly functional online store resulted in a successful and satisfying outcome for the client."
+  },
+  {
+    "title": "Pmcontrol",
+    "type": "shopify",
+    "skills": ["Shopify"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/fd6b2ec8-c754-4699-b0f5-38dd8984c556",
+      "https://gist.github.com/user-attachments/assets/29a5163a-619d-440e-aa91-5b2ab843dbd2"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/fd6b2ec8-c754-4699-b0f5-38dd8984c556",
+    "description": "I developed the Shopify store for PM Controls from the ground up, emphasizing a sleek and functional design. The store was tailored using Liquid to meet the specific requirements of the client, ensuring a personalized shopping experience. I implemented best practices for optimization, significantly enhancing site performance and boosting sales. The design was made fully responsive, ensuring a seamless user experience across all devices, including smartphones and tablets. This comprehensive approach to development and optimization resulted in a high-performing, user-friendly online store that met and exceeded the client’s expectations."
+  },
+  {
+    "title": "The Kapra",
+    "type": "wordpress",
+    "skills": ["wordpress"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/ec66f5ef-da71-4d29-ae74-71b7fbd12d0e",
+      "https://gist.github.com/user-attachments/assets/f916f4e1-b22c-41e0-85ff-b3ac259821ae",
+      "https://gist.github.com/user-attachments/assets/42fe18c0-122d-4374-992e-929f1bda66d5",
+      "https://gist.github.com/user-attachments/assets/d5e97b69-0537-4fd8-9efb-0b87bfab811d"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/42fe18c0-122d-4374-992e-929f1bda66d5",
+    "description": "I developed a comprehensive e-commerce site for The Kapra using WordPress, specializing in the online sale of clothing. The site was built from scratch, ensuring a tailored and user-friendly shopping experience. I focused on optimizing the site for performance, resulting in faster load times and improved user engagement. The design was made fully responsive, providing a seamless experience across all devices, including desktops, tablets, and smartphones. I integrated various plugins to enhance functionality, including secure payment gateways and inventory management tools. By utilizing the latest web technologies and best practices, I ensured the site was not only visually appealing but also highly functional. The successful implementation of this project led to increased sales and a highly satisfied client."
+  }
+]

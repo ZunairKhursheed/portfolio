@@ -3,8 +3,11 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import NextImage from "@/lib/NextImage";
 import { useState } from "react";
 import { About } from "./About";
+import { Contact } from "./Contact";
+import { Portfolio } from "./Portfolio";
 import { Resume } from "./Resume";
 import { Services } from "./Services";
+import { Testimonial } from "./Testimonial";
 
 export const HomeTabs = () => {
   const [currentTab, setCurrentTab] = useState("about");
@@ -21,33 +24,33 @@ export const HomeTabs = () => {
       icon: "/assets/svgs/resume.svg",
       content: <Resume />,
     },
-    // {
-    //   value: "portfolio",
-    //   label: "Portfolio",
-    //   icon: "/assets/svgs/portfolio.svg",
-    //   content: <div>Portfolio</div>,
-    // },
+    {
+      value: "portfolio",
+      label: "Portfolio",
+      icon: "/assets/svgs/portfolio.svg",
+      content: <Portfolio />,
+    },
     {
       value: "service",
       label: "Services",
       icon: "/assets/svgs/service.svg",
       content: <Services />,
     },
-    // {
-    //   value: "testimonial",
-    //   label: "Testimonials",
-    //   icon: "/assets/svgs/testimonial.svg",
-    //   content: <div>Testimonials</div>,
-    // },
-    // {
-    //   value: "contact",
-    //   label: "Contact",
-    //   icon: "/assets/svgs/email.svg",
-    //   content: <div>Contact</div>,
-    // },
+    {
+      value: "testimonial",
+      label: "Testimonials",
+      icon: "/assets/svgs/testimonial.svg",
+      content: <Testimonial />,
+    },
+    {
+      value: "contact",
+      label: "Contact",
+      icon: "/assets/svgs/email.svg",
+      content: <Contact />,
+    },
   ];
   return (
-    <section className="pb-32">
+    <section className="lg:pb-32 pb-5">
       <Tabs defaultValue="about" onValueChange={(e) => setCurrentTab(e)}>
         <TabsList className="flex flex-wrap justify-start gap-2 flex-col md:flex-row">
           {tabs?.map((data, i) => (

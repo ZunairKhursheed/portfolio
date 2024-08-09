@@ -24,6 +24,11 @@ const config = {
         poppins: ["poppins", ...fontFamily.sans],
         spacegrotesk: ["SpaceGrotesk", ...fontFamily.sans],
       },
+      fontSize: {
+        md: "14px",
+        sm: "12px",
+        xs: "10px",
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -32,11 +37,11 @@ const config = {
         foreground: "hsl(var(--foreground))",
         primary: {
           DEFAULT: "var(--primary)",
-          foreground: "hsl(var(--primary-foreground))",
+          foreground: "var(--primary-foreground)",
         },
         secondary: {
           DEFAULT: "var(--secondary)",
-          foreground: "hsl(var(--secondary-foreground))",
+          foreground: "var(--secondary-foreground)",
         },
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
