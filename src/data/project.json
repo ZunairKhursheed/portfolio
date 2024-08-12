@@ -9,7 +9,7 @@
       "https://gist.github.com/user-attachments/assets/c0a65eca-0078-49a8-a6bd-26599b1f4470"
     ],
     "thumbnail": "https://gist.github.com/user-attachments/assets/06f89ef6-525a-4ce3-9ef3-7e31d52a81db",
-    "description": "Mental Wealth Academy is a cutting-edge blockchain-based library and marketplace that connects authors and readers in a decentralized environment. The platform leverages DAO tokens to empower its community, enabling users to shape the future of digital publishing by sharing, accessing, and controlling a vast repository of content. Technologies Used*: React, Vite.js, TypeScript, Tailwind CSS. I converted the provided Figma design into a fully functional website using React, Vite.js, TypeScript, and Tailwind CSS. My responsibilities included translating the design into a responsive and user-friendly interface, optimizing the website's performance, and ensuring smooth interaction between the frontend components. I also implemented the necessary configurations for deploying the site efficiently. The project successfully launched as a decentralized platform, receiving positive feedback for its innovative approach to digital publishing and seamless user experience."
+    "description": "Mental Wealth Academy is a cutting-edge blockchain-based library and marketplace that connects authors and readers in a decentralized environment. The platform leverages DAO tokens to empower its community, enabling users to shape the future of digital publishing by sharing, accessing, and controlling a vast repository of content. Technologies Used: React, Vite.js, TypeScript, Tailwind CSS. I converted the provided Figma design into a fully functional website using React, Vite.js, TypeScript, and Tailwind CSS. My responsibilities included translating the design into a responsive and user-friendly interface, optimizing the website's performance, and ensuring smooth interaction between the frontend components. I also implemented the necessary configurations for deploying the site efficiently. The project successfully launched as a decentralized platform, receiving positive feedback for its innovative approach to digital publishing and seamless user experience."
   },
   {
     "title": "Health Social",
@@ -121,5 +121,19 @@
     ],
     "thumbnail": "https://gist.github.com/user-attachments/assets/42fe18c0-122d-4374-992e-929f1bda66d5",
     "description": "I developed a comprehensive e-commerce site for The Kapra using WordPress, specializing in the online sale of clothing. The site was built from scratch, ensuring a tailored and user-friendly shopping experience. I focused on optimizing the site for performance, resulting in faster load times and improved user engagement. The design was made fully responsive, providing a seamless experience across all devices, including desktops, tablets, and smartphones. I integrated various plugins to enhance functionality, including secure payment gateways and inventory management tools. By utilizing the latest web technologies and best practices, I ensured the site was not only visually appealing but also highly functional. The successful implementation of this project led to increased sales and a highly satisfied client."
+  },
+  {
+    "title": "Wings & Rings",
+    "type": "html",
+    "skills": ["HTML5", "CSS3", "Bootstrap"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/0f854b32-a3c0-47b1-9ff8-5dc0fa51ca5c",
+      "https://gist.github.com/user-attachments/assets/c47570c9-3fcf-41cc-9522-de80b2a5f8bc",
+      "https://gist.github.com/user-attachments/assets/1f924381-6018-40cb-8fb8-2d1f3e280a87",
+      "https://gist.github.com/user-attachments/assets/582326b2-6583-46ca-88d7-bad11adeaaa2",
+      "https://gist.github.com/user-attachments/assets/399da493-7001-4b46-84b6-399c8f90333f"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/582326b2-6583-46ca-88d7-bad11adeaaa2",
+    "description": "Wings and Rings is a modern e-commerce platform designed to satisfy your cravings for delicious chicken wings and crispy onion rings. Built with clean HTML and styled entirely with CSS, the site offers a vibrant, responsive design that adapts seamlessly across all devices. The intuitive layout features a rich product gallery, smooth navigation, and a streamlined ordering process, ensuring a delightful and efficient shopping experience. Wings and Rings combines visual appeal with user-friendly functionality, making it easy for customers to browse, select, and order their favorite dishes online."
   }
 ]
