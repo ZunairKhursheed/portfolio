@@ -135,5 +135,25 @@
     ],
     "thumbnail": "https://gist.github.com/user-attachments/assets/582326b2-6583-46ca-88d7-bad11adeaaa2",
     "description": "Wings and Rings is a modern e-commerce platform designed to satisfy your cravings for delicious chicken wings and crispy onion rings. Built with clean HTML and styled entirely with CSS, the site offers a vibrant, responsive design that adapts seamlessly across all devices. The intuitive layout features a rich product gallery, smooth navigation, and a streamlined ordering process, ensuring a delightful and efficient shopping experience. Wings and Rings combines visual appeal with user-friendly functionality, making it easy for customers to browse, select, and order their favorite dishes online."
+  },
+  {
+    "title": "Day to Day Healthcare",
+    "type": "shopify",
+    "skills": ["Shopify"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/5cc74617-ece1-4a47-8894-810dfca315d1"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/5cc74617-ece1-4a47-8894-810dfca315d1",
+    "description": "I developed the Shopify store for Day to Day Healthcare from the ground up, emphasizing a sleek and functional design. The store was tailored using Liquid to meet the specific requirements of the client, ensuring a personalized shopping experience. I implemented best practices for optimization, significantly enhancing site performance and boosting sales. The design was made fully responsive, ensuring a seamless user experience across all devices, including smartphones and tablets. This comprehensive approach to development and optimization resulted in a high-performing, user-friendly online store that met and exceeded the client’s expectations."
+  },
+  {
+    "title": "Rhino Strength",
+    "type": "shopify",
+    "skills": ["Shopify"],
+    "images": [
+      "https://gist.github.com/user-attachments/assets/bcfe92df-3748-49af-9f4f-1ed202af397e"
+    ],
+    "thumbnail": "https://gist.github.com/user-attachments/assets/bcfe92df-3748-49af-9f4f-1ed202af397e",
+    "description": "I developed the Shopify store for Rhino Strength from the ground up, emphasizing a sleek and functional design. The store was tailored using Liquid to meet the specific requirements of the client, ensuring a personalized shopping experience. I implemented best practices for optimization, significantly enhancing site performance and boosting sales. The design was made fully responsive, ensuring a seamless user experience across all devices, including smartphones and tablets. This comprehensive approach to development and optimization resulted in a high-performing, user-friendly online store that met and exceeded the client’s expectations."
   }
 ]

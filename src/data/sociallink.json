@@ -13,5 +13,10 @@
     "name": "fiverr",
     "link": "https://www.fiverr.com/zunairkhursheed",
     "image": "/assets/svgs/fiverr.svg"
+  },
+  {
+    "name": "upwork",
+    "link": "https://www.upwork.com/freelancers/~01ae635eaf58675eed",
+    "image": "/assets/svgs/upwork.svg"
   }
 ]

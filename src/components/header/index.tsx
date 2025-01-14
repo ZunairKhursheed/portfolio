@@ -1,6 +1,5 @@
 import socialLink from "@/data/sociallink.json";
 import NextImage from "@/lib/NextImage";
-import Image from "next/image";
 import Link from "next/link";
 
 export const Header = () => {
@@ -8,8 +7,8 @@ export const Header = () => {
     <div className="w-full bg-transparent py-5 z-10">
       <div className="container">
         <ul className="flex items-center justify-end gap-2">
-          {socialLink?.map((social, index) => (
-            <li key={social?.name + index}>
+          {socialLink?.map((social) => (
+            <li key={social?.name}>
               <Link target="_blank" href={social?.link}>
                 {" "}
                 <NextImage
@@ -17,7 +16,7 @@ export const Header = () => {
                   alt={`${social?.name}-Zunair `}
                   height={500}
                   width={500}
-                  claz="h-8  w-8"
+                  claz="h-8 w-8"
                   priority
                 />
               </Link>

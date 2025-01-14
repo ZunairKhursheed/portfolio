@@ -27,7 +27,7 @@ export const Home = () => {
         </div>
         <div className="flex md:justify-center ">
           <div className="relative ">
-            <div className="absolute bg-[#ffb324] animate-rotate max-h-[350px] inset-6 hidden md:block"></div>
+            <div className="absolute bg-[#ffb324] animate-rotate max-h-[350px] inset-6 hidden md:block" />
             <NextImage
               src="/assets/images/Profile.jpg"
               width={250}
